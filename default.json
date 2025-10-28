@@ -6,6 +6,7 @@
     "group:allNonMajor",
     ":label(dependencies)",
     ":automergeMinor",
+    ":disablePeerDependencies",
     ":dependencyDashboard"
   ]
 }
