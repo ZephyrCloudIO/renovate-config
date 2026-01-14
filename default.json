@@ -8,5 +8,6 @@
     ":automergeMinor",
     ":disablePeerDependencies",
     ":dependencyDashboard"
-  ]
+  ],
+  "branchNameStrict": true
 }
